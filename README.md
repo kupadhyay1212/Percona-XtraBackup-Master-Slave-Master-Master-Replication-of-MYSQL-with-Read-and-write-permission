@@ -1,1 +1,1 @@
-# Percona-XtraBackup-Master-Slave-Master-Master-Replication-of-MYSQL-with-Read-and-write-permission
+# Percona-XtraBackup-Master-Slave and Multi-Master-Replication-of-MYSQL-with-Read-and-write-permission
